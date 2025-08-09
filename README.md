@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/path-to-your-chosen-gif.gif" alt="Funny coding banner" />
-</p>
-
 # 👋 Hi, I’m **Debiprasad Brahma**  
 
 ## 🚀 About Me
