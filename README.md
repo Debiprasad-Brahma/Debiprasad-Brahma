@@ -8,7 +8,7 @@
 - 👀 Interested in **Data Structures & Algorithms** and **Full-Stack Web Development**  
 - 🌱 Currently learning **Advanced DSA** & **MERN Stack**  
 - 💞️ Open to collaborate on **Open Source**, **Web Apps**, and **DSA Challenges**  
-- 📫 Reach me via: [📧 Email](mailto:debiprasadbrahma01@gmail.com) | [💼 LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/debiprasad-brahma-11730529a/))  
+- 📫 Reach me via: [📧 Email](mailto:debiprasadbrahma01@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/debiprasad-brahma-11730529a/)
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I can debug code faster than I can decide what to eat! 🍕💻**
 
