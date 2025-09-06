@@ -25,19 +25,16 @@
 ---
 
 ## 📊 GitHub Stats
-![Debiprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debiprasad-Brahma&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debiprasad-Brahma&layout=compact&theme=gruvbox)
+![Debiprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debiprasad-Brahma&show_icons=true&theme=gruvbox)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debiprasad-Brahma&layout=compact&theme=gruvbox)  
 
 ---
 
-## ✨ Coding Vibes
-A little **calm coding animation** to keep the flow:  
+## 🔥 Streaks & Profile Views
+![GitHub Streak](https://streak-stats.demolab.com/?user=Debiprasad-Brahma&theme=gruvbox)  
+![Profile Views](https://komarev.com/ghpvc/?username=Debiprasad-Brahma&color=blue&style=flat-square)
 
-![Coding Vibes](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
-
-> “Code is like humor. When you have to explain it, it’s bad.” 😎
-
-
+---
 
 ## 💡 Fun Fact
 > I like to keep my code clean and my coffee cleaner ☕💻
