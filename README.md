@@ -2,6 +2,13 @@
 <h3 align="center">🚀 A Passionate Learner in DSA & Full-Stack Web Development</h3>
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debiprasad-Brahma&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debiprasad-Brahma&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Debiprasad-Brahma&theme=dark&hide_border=true)
 
 ## 🚀 About Me
 - 👀 Passionate about **Data Structures & Algorithms** and **Full-Stack Web Development**  
